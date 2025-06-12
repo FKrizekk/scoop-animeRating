@@ -1,0 +1,8 @@
+{
+  "version": "1.0",
+  "url": "https://github.com/FKrizekk/animeRating/releases/download/1.0/animeRating.exe",
+  "bin": "animeRating.exe",
+  "description": "A cli tool that helps you rank your anime. that's it.",
+  "homepage": "https://github.com/FKrizekk/animeRating",
+  "license": "MIT"
+}
